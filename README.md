@@ -1,4 +1,4 @@
-# [BobaOnWheelz] (https://glowing-kleicha-35f1d7.netlify.app/)
+# [BobaOnWheelz](https://glowing-kleicha-35f1d7.netlify.app/)
 
 BobaOnWheelz is a web application built using the React framework, which allows users to order boba drinks online. 
 The main page of the application displays a list of available drinks, including their names, descriptions, and prices. 
